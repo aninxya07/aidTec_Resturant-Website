@@ -336,7 +336,7 @@ placeholder = Message
 
 Book a Table
 
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2023 Anindya Dolui All Rights Reserved.
 
 
 
